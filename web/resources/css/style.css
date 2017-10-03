@@ -1,0 +1,56 @@
+
+body{
+    background-image: url("../img/airline1.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.wrapper {
+    background-color: #e8e8e8;
+    width: 1350px;
+    margin: 0 auto;
+    padding: 0 10px;
+}
+
+.affix {
+    top: 0;
+    width: 100%;
+}
+
+.affix + .container-fluid {
+    padding-top: 100px;
+}
+
+#top {
+    background-image: url(../img/banner.jpg);
+    background-size: cover;
+}
+
+#myTable th, td{
+    padding: 10px;
+}
+
+#ph {
+    width: 650px;
+}
+
+#greskaReg {
+    font-size: 32px;
+    color: red;
+}
+
+.group {
+    padding: 10px;
+}
+
+#uspeh {
+    font-size: 32px;
+    color: green;
+}
+
+#ulogovan {
+    color: #75a9d8;
+    
+}

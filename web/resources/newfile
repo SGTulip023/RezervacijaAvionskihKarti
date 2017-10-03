@@ -1,0 +1,9 @@
+
+<!-- setujem datum i vreme u promenljivu da bih moga da je dodam u input value -->
+                            <!--<td>
+                                
+                                <fmt:formatDate pattern = "dd-MM-yyyy"  value = "${a.letDatum}" var="datum"/>
+                                <fmt:formatDate pattern = "HH:mm"  value = "${a.letDatum}" var="vreme"/>
+                                <input type="hidden" value="${a.letId}" name="letId" />
+                                <input type="text" value="${datum} ${vreme}" name="letDatum"/>                                       
+                            </td>-->
